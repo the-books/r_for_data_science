@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583205366665.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6AC5F65A",
+    "lastKnownWriteTime" : 1583199867,
+    "last_content_update" : 1583199867,
+    "path" : "~/r_for_data_science/ch02.R",
+    "project_path" : "ch02.R",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
